@@ -132,6 +132,10 @@ p{
     font-weight: bold;
     overflow: hidden;
 }
+#section2 #aside article{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #section3{
     width: 100%;
     height: 400;
